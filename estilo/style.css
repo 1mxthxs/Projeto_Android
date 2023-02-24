@@ -173,6 +173,9 @@ aside > ul{
 }
 
 footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
     background-color: var(--cor5);
     color: white;
     text-align: center;
